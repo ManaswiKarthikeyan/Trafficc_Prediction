@@ -1,0 +1,15 @@
+Horizon 5 min | RMSE: 0.5911 | MAE: 0.2736 | MAPE: 244.86%
+Horizon 10 min | RMSE: 0.6236 | MAE: 0.2861 | MAPE: 247.30%
+Horizon 15 min | RMSE: 0.6525 | MAE: 0.2986 | MAPE: 247.32%
+Horizon 20 min | RMSE: 0.6788 | MAE: 0.3099 | MAPE: 238.94%
+Horizon 25 min | RMSE: 0.7046 | MAE: 0.3221 | MAPE: 253.34%
+Horizon 30 min | RMSE: 0.7295 | MAE: 0.3341 | MAPE: 258.11%
+Horizon 35 min | RMSE: 0.7506 | MAE: 0.3458 | MAPE: 256.27%
+Horizon 40 min | RMSE: 0.7715 | MAE: 0.3571 | MAPE: 249.92%
+Horizon 45 min | RMSE: 0.7906 | MAE: 0.3682 | MAPE: 260.16%
+Horizon 50 min | RMSE: 0.8071 | MAE: 0.3781 | MAPE: 257.03%
+Horizon 55 min | RMSE: 0.8237 | MAE: 0.3879 | MAPE: 252.83%
+Horizon 60 min | RMSE: 0.8396 | MAE: 0.3973 | MAPE: 247.13%
+
+Average metrics across all horizons:
+RMSE: 0.7303 | MAE: 0.3382 | MAPE: 251.10%
