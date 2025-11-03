@@ -56,6 +56,15 @@ Pandas
 Scikit-learn
 Matplotlib (for plots)
 ---
+NOTES FOR REVIEWER
+1)Full raw and processed datasets are too large to include.
+2)To reproduce results:
+      *Download the METR-LA dataset from GitHub METR-LA
+ or generate a synthetic dataset.
+      *Run preprocess.py to create processed datasets.
+      *Run train.py to train the model (best_lstm.pt will be generated).
+      *Run inference.py and evaluate.py to generate predictions and metrics.
+---
 Features
 Multi-step traffic forecasting using LSTM
 Baseline comparison using historical average
