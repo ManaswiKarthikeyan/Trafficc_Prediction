@@ -63,10 +63,9 @@ Evaluation with RMSE, MAE, and MAPE per forecast horizon
 Error visualization per horizon
 Fully reproducible pipeline from raw data to predictions
 ---
-##Notes
+Notes
 Trained model checkpoint is saved in processed_data/best_lstm.pt
 Predictions and evaluation report are included for review
 Optional exogenous features (time-of-day, day-of-week) can be added for improved performance
+---
 
-yaml
-Copy code
