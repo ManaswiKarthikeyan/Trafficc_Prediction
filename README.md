@@ -32,7 +32,7 @@ TrafficPrediction/
 
 ## How to Run
 
-1. **Preprocess the data:**
+1. Preprocess the data:
 python preprocess.py
 
 2.Train the LSTM model:
@@ -48,7 +48,7 @@ python evaluate.py
 python baseline_and_plot.py
 
 ---
-##Dependencies
+Dependencies
 Python >= 3.8
 PyTorch
 NumPy
@@ -56,7 +56,7 @@ Pandas
 Scikit-learn
 Matplotlib (for plots)
 ---
-##Features
+Features
 Multi-step traffic forecasting using LSTM
 Baseline comparison using historical average
 Evaluation with RMSE, MAE, and MAPE per forecast horizon
